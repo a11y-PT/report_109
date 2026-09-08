@@ -5,16 +5,18 @@ uri: "https://www.cm-murca.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-murca.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM de Murça"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "08-09-2026 a 08-09-2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Município de Murça
+# Município de Murça  (Sítio Web)
 
 - Data de criação: 10/07/2026
 - URL: https://www.cm-murca.pt/
 - Propriedade: CM de Murça
 - Candidatura: Ouro
+- Validade do selo: 08-09-2026 a 08-09-2027
+- Estado: Concluído
 
 ## Relatório de auditoria
 
@@ -25,7 +27,7 @@ Consulte aqui a última atualização: [Relatório Município de Murça](report.
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="23072026_report.html">(23/07/2026). Relatório Município de Murça</a></li>
+    <li><a href="08092026_report.html">(08/09/2026). Relatório Município de Murça</a></li>
   </ul>
 </details>
 
